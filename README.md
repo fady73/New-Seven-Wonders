@@ -1,3 +1,3 @@
 # New-Seven-Wonders
 web page
-https://fady73.github.io/New-Seven-Wonders/index.html
+https://fady73.github.io/New-Seven-Wonders
